@@ -1,0 +1,147 @@
+c595a3, Maroon L
+a14f66, Maroon M
+701d2d, Maroon D
+e38892, Red L
+d0394a, Red M
+c3121a, Red D
+e5a189, Lobster Red L
+d5643c, Lobster Red M
+c62b17, Lobster Red D
+e2a37c, Bright Orange L
+d95f2c, Bright Orange M
+ca2811, Bright Orange D
+ebb886, Orange L
+df8a37, Orange M
+d14e18, Orange D
+f1cb8d, Sun Yellow L
+e8a942, Sun Yellow M
+d96f21, Sun Yellow D
+f2d193, Mango L
+eab34c, Mango M
+e08125, Mango D
+fbf187, Lemon Yellow L
+f9e838, Lemon Yellow M
+f1d432, Lemon Yellow D
+fdf792, Yellow L
+fbf24b, Yellow M
+f9e83a, Yellow D
+d2e193, Grass Green L
+b4cd4b, Grass Green M
+83aa2d, Grass Green D
+c5cd8f, Lawn Green L
+a0aa47, Lawn Green M
+657421, Lawn Green D
+b5c394, Olive Green L
+849b4d, Olive Green M
+495f21, Olive Green D
+c3db9a, Pea Green L
+9cc358, Pea Green M
+65942a, Pea Green D
+b8d79a, Light Green L
+89bc57, Light Green M
+588a2b, Light Green D
+91af98, Green L
+4a7c56, Green M
+243e21, Green D
+95a9a4, Dark Green L
+4e7268, Dark Green M
+21342e, Dark Green D
+b2c1a9, Sage Green L
+809971, Sage Green M
+455e36, Sage Green D
+a5cca7, Bright Green L
+6aaa6d, Bright Green M
+437433, Bright Green D
+bcdbd0, Pale Green L
+91c4b1, Pale Green M
+639a7b, Pale Green D
+add9d6, Turquoise L
+79bebb, Turquoise M
+549189, Turquoise D
+a0cad8, Light Turquoise L
+60a7bd, Light Turquoise M
+41708e, Light Turquoise D
+a6d7e4, Turquoise Surf L
+6cbdd2, Turquoise Surf M
+528dad, Turquoise Surf D
+c6e4f7, Pastel Blue L
+a1d2f2, Pastel Blue M
+72ade5, Pastel Blue D
+abd0ec, Sky Blue L
+79aad2, Sky Blue M
+497ac6, Sky Blue D
+afbfd0, Gray Blue L
+7994af, Gray Blue M
+415a78, Gray Blue D
+8ba9d2, Blue L
+3e6fb4, Blue M
+1d3281, Blue D
+899dbe, Dark Blue L
+3c5d93, Dark Blue M
+182559, Dark Blue D
+a1c0e2, Light Blue L
+6495d0, Light Blue M
+3558a9, Light Blue D
+8b98c8, Navy Blue L
+3f54a3, Navy Blue M
+18226a, Navy Blue D
+9ea6cf, Cobalt Blue L
+5e6bb1, Cobalt Blue M
+28307b, Cobalt Blue D
+b290be, Violet L
+804595, Violet M
+4a195b, Violet D
+d0c5dc, Lavender L
+b0a0c5, Lavender M
+7c689d, Lavender D
+ddbdd8, Lilac L
+c792be, Lilac M
+a4578fv, Lilac D
+d099c1, Geranium L
+b4549b, Geranium M
+87225e, Geranium D
+d795bc, Magenta L
+be5192, Magenta M
+9d1e53, Magenta D
+e397b2, Raspberry L
+d25380, Raspberry M
+bf1d42, Raspberry D
+ebc3d8, Carnation L
+d198b9, Carnation M
+cc618d, Carnation D
+f1d2dc, Pastel Pink L
+e7b4c5, Pastel Pink M
+d97f99, Pastel Pink D
+f5d8e1, Pale Pink L
+eebece, Pale Pink M
+e28ea6, Pale Pink D
+eab9c7, Coral Pink L
+db8a9d, Coral Pink M
+cc4e66, Coral Pink D
+e9b5b5, Salmon L
+d98382, Salmon M
+cc4748, Salmon D
+edc6bc, Light Peach L
+e0a190, Light Peach M
+cd6653, Light Peach D
+e5d5c9, Tan L
+d5baa5, Tan M
+b88a70, Tan D
+d9b08b, Light Brown L
+c27e41, Light Brown M
+9d411a, Light Brown D
+caa198, Burnt Brown L
+a76454, Burnt Brown M
+792c24, Burnt Brown D
+c1a18e, Brown L
+996244, Brown M
+62281a, Brown D
+9f8b84, Cocoa Brown L
+5f3f32, Cocoa Brown M
+291610, Cocoa Brown D
+c5c7c6, Gray L
+a0a2a1, Gray M
+656766, Gray D
+b1adbb, Medium Gray L
+7d788e, Medium Gray M
+413c52, Medium Gray D
