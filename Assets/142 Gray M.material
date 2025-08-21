@@ -1,0 +1,11 @@
+{
+    "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
+    "materialTypeVersion": 5,
+    "propertyValues": {
+        "baseColor.color": [
+            0.6274509803921569,
+            0.6352941176470588,
+            0.6313725490196078
+        ]
+    }
+}

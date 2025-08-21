@@ -1,0 +1,33 @@
+{
+    "gem_name": "BasicMaterialColours",
+    "version": "1.0.0",
+    "display_name": "Basic Material Colours",
+    "license": "Apache-2.0 License",
+    "license_url": " flat coloured materials.",
+    "origin": "Genome Studios Inc.",
+    "origin_url": "http://genomestudios.ca",
+    "type": "Asset",
+    "summary": "A collection of over 100 flat coloured materials.",
+    "canonical_tags": [
+        "Gem"
+    ],
+    "user_tags": [
+        "Materials",
+        "BasicMaterialColours",
+        "Colours"
+    ],
+    "platforms": [
+        "Linux",
+        "Windows",
+        "iOS",
+        "Android"
+    ],
+    "icon_path": "",
+    "requirements": "",
+    "documentation_url": "",
+    "dependencies": [],
+    "repo_uri": "https://github.com/GenomeStudios/O3DE_BasicMaterialColours",
+    "compatible_engines": [],
+    "engine_api_dependencies": [],
+    "restricted": "BasicMaterialColours"
+}

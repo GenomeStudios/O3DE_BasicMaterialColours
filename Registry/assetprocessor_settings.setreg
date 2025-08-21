@@ -1,0 +1,18 @@
+{
+    "Amazon": {
+        "AssetProcessor": {
+            "Settings": {
+                "ScanFolder BasicMaterialColours/Assets": {
+                    "watch": "@GEMROOT:BasicMaterialColours@/Assets",
+                    "recursive": 1,
+                    "order": 101
+                },
+                "ScanFolder BasicMaterialColours/Registry": {
+                    "watch": "@GEMROOT:BasicMaterialColours@/Registry",
+                    "recursive": 1,
+                    "order": 102
+                }
+            }
+        }
+    }
+}
