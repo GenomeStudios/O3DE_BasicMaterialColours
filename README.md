@@ -1,7 +1,7 @@
 # O3DE_BasicMaterialColours
 A collection of over 100 flat coloured materials.
 
-![Partial Material Display Image](material_display.png)
+![Partial Basic Materials Display Image](material_display.png)
 
 ## Setup
 1. Clone or Download the Repository
@@ -14,3 +14,14 @@ A collection of over 100 flat coloured materials.
 
 > [!NOTE]
 > The Preview Icons in Editor look far lighter than the actual Material.
+
+## Gallery
+
+### Primaries
+![Primaries Materials Display Image](primaries_material_display.png)
+
+### Browns
+![Browns Materials Display Image](browns_material_display.png)
+
+### Emissives
+![Emissives Materials Display Image](emissives_material_display.png)
