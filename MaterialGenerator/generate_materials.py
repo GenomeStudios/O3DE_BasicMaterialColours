@@ -24,7 +24,12 @@ def make_material_json(color_rgb):
         "materialType": "@gemroot:Atom_Feature_Common@/Assets/Materials/Types/StandardPBR.materialtype",
         "materialTypeVersion": 5,
         "propertyValues": {
-            "baseColor.color": color_rgb
+            "baseColor.color": color_rgb,
+
+# Emissive Properties            
+#            "e▼missive.enable": True,
+#            "e▼missive.color": color_rgb,
+#            "e▼missive.intensity": 3
         }
     }
 
